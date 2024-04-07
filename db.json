@@ -8,36 +8,43 @@
     {
         "name": "SISTEM KENDALI MEKANIKA",
         "type": "TULT 13 02",
-        "description": "13.30 - 16.30"
+        "description": "13.30 - 16.30",
+        "img_src": "https://mf-chan.com/tel-u-logo/lib/Tel-U/sekunder-utama.png"
     },
     {
         "name": "KOMPUTER FORENSIK",
         "type": "TULT 13 02",
-        "description": "11.3O-14.30"
+        "description": "11.3O-14.30",
+        "img_src": "https://mf-chan.com/tel-u-logo/lib/Tel-U/sekunder-utama.png"
     },
     {   
         "name": "BIGDATA",
         "type": "KU3 03 18",
-        "description": "14.30-17.30"
+        "description": "14.30-17.30",
+        "img_src": "https://mf-chan.com/tel-u-logo/lib/Tel-U/sekunder-utama.png"
     },
     {
         "name": "ORGANISASI DAN ARSITEKTUR KOMPUTER",
         "type": "KU3 04 17",
-        "description": "08.30-11.30"
+        "description": "08.30-11.30",
+        "img_src": "https://mf-chan.com/tel-u-logo/lib/Tel-U/sekunder-utama.png"
     },
     {
         "name": "KEWIRAUSAHAAN",
         "type": "KU3 05 01",
-        "description": "06.30-08.30"
+        "description": "06.30-08.30",
+        "img_src": "https://mf-chan.com/tel-u-logo/lib/Tel-U/sekunder-utama.png"
     },
     {
         "name": "LITERASI DATA",
         "type": "KU3 04 11",
-        "description": "06.30-08.30"
+        "description": "06.30-08.30",
+        "img_src": "https://mf-chan.com/tel-u-logo/lib/Tel-U/sekunder-utama.png"
     },
     {
         "name": "MANAJEMEN PROYEK",
         "type": "TULT 12 14",
-        "description": "13.30 - 16.30"
+        "description": "13.30 - 16.30",
+        "img_src": "https://mf-chan.com/tel-u-logo/lib/Tel-U/sekunder-utama.png"
     }
   ]
